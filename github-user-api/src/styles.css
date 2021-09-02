@@ -1,0 +1,9 @@
+.profilles{
+  display: flex;
+  width:80%;
+ 
+}
+.list{
+  position: relative;
+  left: 10%;
+}
