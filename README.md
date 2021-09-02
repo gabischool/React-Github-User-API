@@ -12,7 +12,7 @@ Commit your code regularly and meaningfully. This helps you and any collaborator
 
 ## Instructions
 
-### Task 1: Project Set Up
+### Task 1: Project Set Up ok
 
 - [ ] Create a forked copy of this project.
 - [ ] Clone your OWN version of the repository in your terminal
